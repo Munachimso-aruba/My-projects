@@ -1,2 +1,2 @@
 # Muna's projects
-Munachimso's collection of early personal projects coded using PYTHON.
+My collection of personal coding projects. I code as a hobby and I started January 2022. Do not hesitate to give me feedback on what you think of my projects and what I can improve upon.
